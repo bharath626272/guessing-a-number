@@ -1,0 +1,30 @@
+body {
+    background: #833535;
+    color: #2f9170;
+    font-family: Arial;
+}
+
+.game {
+    width: 300px;
+    margin: 100px auto;
+    text-align: center;
+    background: #4d2342;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+input {
+    width: 80%;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+button {
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.message {
+    font-size: 18px;
+}
